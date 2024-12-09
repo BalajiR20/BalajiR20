@@ -1,4 +1,5 @@
 # Hi there, I'm **Balaji Ranganathan** 👋
+<img align='right-end' width='370' height='270' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
 ## 🚀 About Me
 I'm a second-year B. Tech student at **National Institute of Technology, Calicut**. I am passionate about **AI** and **Machine Learning**, with a keen interest in **deep learning** and **computer vision**. I aim to build real-world solutions using AI and ML technologies.
