@@ -19,11 +19,7 @@ Currently, I’m focusing on learning **DSA**, **Web Development**,**Large langu
   - AI/ML projects
   - Data science and computer vision-based research.
 
-- 💬 Ask me about:
-  - **Machine Learning**, **Deep Learning**, and **AI**
-  - **Python**, **C/C++**
-  -  **Data Science**
- 
+
 
 - 📫 How to reach me:
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/balajiranganathan06)
