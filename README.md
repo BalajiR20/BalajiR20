@@ -1,3 +1,6 @@
+<h1 align="center">![image](https://github.com/user-attachments/assets/48b8cb85-d12d-4f81-8a18-5153f6ee233b)Hi 
+</h1>
+
 # Hi there, I'm **Balaji Ranganathan** 👋
 <img align='right-end' width='370' height='270' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
