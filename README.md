@@ -1,6 +1,3 @@
-<h1 align="center">Hi 
-</h1>
-
 # Hi there, I'm **Balaji Ranganathan** 👋
 <img align='right-end' width='370' height='270' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
