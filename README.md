@@ -1,4 +1,4 @@
-<h1 align="center">![image](https://github.com/user-attachments/assets/48b8cb85-d12d-4f81-8a18-5153f6ee233b)Hi 
+<h1 align="center">Hi 
 </h1>
 
 # Hi there, I'm **Balaji Ranganathan** 👋
