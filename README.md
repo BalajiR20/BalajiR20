@@ -1,50 +1,89 @@
-# Hi there, I'm **Balaji Ranganathan** 👋
-<img align='right-end' width='370' height='270' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+# Hi there, I'm **Balaji Ranganathan** 👋  
+<p>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+</p>
+
+🎓 **B.Tech in EEE** @ NIT Calicut | 🧠 **Minor in AI/ML**  
+🔬 AI Intern @ Wealth Plus | 👨‍💻 Junior Executive @ AI Club - NITC  
+🌱 Passionate about building real-world AI systems & embedded intelligence
+
+---
 
 ## 🚀 About Me
-I'm a second-year B. Tech student at **National Institute of Technology, Calicut**. I am passionate about **AI** and **Machine Learning**, with a keen interest in **deep learning** and **computer vision**. I aim to build real-world solutions using AI and ML technologies.
 
-Currently, I’m focusing on learning **DSA**, **Web Development**,**Large language models**.
+I am a second-year B.Tech student specializing in Electrical and Electronics Engineering (EEE) at the National Institute of Technology Calicut (NITC). Alongside my major, I am pursuing a minor in Artificial Intelligence (AI) and Machine Learning (ML), driven by a deep interest in the transformative potential of intelligent systems and emerging technologies.
 
-- 🔭 I’m currently working on:
-   - **Building a responsive web** for interactive and user-friendly applications.
-   - **Developing a large language model (LLM)** to solve real-world problems.
-
-- 🌱 I’m currently learning:
-  - **Data Structures and Algorithms (DSA)**
-  - **Web Development**: Building responsive applications.
-  - **Machine Learning** and **Deep Learning**
-
-- 👯 I’m looking to collaborate on:
-  - AI/ML projects
-  - Data science and computer vision-based research.
+---
 
 
+## 📚 Research & Club Work
+👥 **AI Club – NITC**  
+Organized workshops, reproduced cutting-edge papers, and built a research-focused peer group
 
-- 📫 How to reach me:
-  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/balajiranganathan06)
-  - Email: [balajiranganathan95@gmail.com]
+---
 
-## 🔧 Technologies & Tools
+## 🌱 Currently Learning
+ 
+- 🧠 Machine Learning | Deep Learning | Computer Vision | Transformers | Prompt Engineering | LLM Optimization | 
+- 🌐 Full-Stack Development
+- 👨‍💻 DSA
 
-- **Programming Languages**: Python, C, C++, HTML, CSS
-- **Machine Learning Frameworks**: TensorFlow, Keras, Scikit-learn, XGBoost
-- **Web Development**: HTML, CSS, JavaScript, 
-- **Tools**: Git, VS Code, Jupyter, Google Colab
+---
 
-## 🖥️ Programming Languages
+
+## 🧠 Skills & Tools
+
+### 🖥️ Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🤖 Machine Learning / AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🌐 Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 📊 Data & Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0E4D92?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-1B5E20?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+
+---
 
 ## 📈 GitHub Stats
 
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajiranganathan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BalajiR-2006&show_icons=true&theme=tokyonight" />
+</p>
 
+---
 
+## 📫 Contact
 
-> "The best way to predict the future is to create it." – Abraham Lincoln
+- 📧 [balajiranganathan95@gmail.com](mailto:balajiranganathan95@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/balajiranganathan06)  
+- 💻 [GitHub](https://github.com/BalajiR-2006)
 
+---
+
+> *"The best way to predict the future is to create it." – Abraham Lincoln*
