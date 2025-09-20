@@ -1,17 +1,17 @@
-# Hi there, I'm **Balaji Ranganathan** 👋  
+# Hi there, I'm **Balaji R** 👋  
 <p>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
 </p>
 
 🎓 **B.Tech in EEE** @ NIT Calicut | 🧠 **Minor in AI/ML**  
-🔬 AI Intern @ Wealth Plus | 👨‍💻 Junior Executive @ AI Club - NITC  
+👨‍💻 Junior Executive @ AI Club - NITC  
 🌱 Passionate about building real-world AI systems & embedded intelligence
-
+💻 Learning DSA and Web Development
 ---
 
 ## 🚀 About Me
 
-I am a second-year B.Tech student specializing in Electrical and Electronics Engineering (EEE) at the National Institute of Technology Calicut (NITC). Alongside my major, I am pursuing a minor in Artificial Intelligence (AI) and Machine Learning (ML), driven by a deep interest in the transformative potential of intelligent systems and emerging technologies.
+I am a pre-final year B.Tech student specializing in Electrical and Electronics Engineering (EEE) at the National Institute of Technology Calicut (NITC). Alongside my major, I am pursuing a minor in Artificial Intelligence (AI) and Machine Learning (ML), driven by a deep interest in the transformative potential of intelligent systems and emerging technologies.
 
 ---
 
